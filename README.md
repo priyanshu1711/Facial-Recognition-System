@@ -1,4 +1,4 @@
-
+Facial-Recognition-System
 This project implements a face recognition system using the dlib library and pre-trained models from the face_recognition_models package. The system is capable of detecting faces in images, extracting facial landmarks, and computing facial encodings to identify or compare faces based on their similarity.
 
 Key Features:
